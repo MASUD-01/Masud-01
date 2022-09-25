@@ -1,5 +1,6 @@
+<img align='right' alt='coding' width='400' src='https://i.ibb.co/26VG6ff/banner.jpg'>
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
-<h3 align="center">Frontend || Jr MERN Stack Developer</h3>
+<h3 align="center">Front-End | Jr MERN Stack Developer</h3>
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 
