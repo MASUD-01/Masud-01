@@ -4,7 +4,7 @@
 <img align='right' alt='coding' width='400' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'>
 
 
-- 👨‍💻 All of my projects are available at [https://masud-rana-portfolio.netlify.app/](https://masud-rana-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://personal-portfoli-masud.vercel.app/](https://personal-portfoli-masud.vercel.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13P3qr_GaZNHeEDWZFZ1st8gpMOkBnjZG/view](https://drive.google.com/file/d/13P3qr_GaZNHeEDWZFZ1st8gpMOkBnjZG/view)
 
